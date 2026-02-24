@@ -83,7 +83,9 @@ PUSHOVER_API_TOKEN=<your_pushover_token>
 ```
 
 4.	Run the agent:
-
+```bash
+uv run app.py
+```
 ---
 
 ## Future Improvements
